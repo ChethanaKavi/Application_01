@@ -1,0 +1,9 @@
+C:\Users\cheth\Documents\Visual Studio 2012\Projects\Final Project\Final Project\bin\Release\Final Project.exe.config
+C:\Users\cheth\Documents\Visual Studio 2012\Projects\Final Project\Final Project\obj\Release\Final_Project.Admin_Login.resources
+C:\Users\cheth\Documents\Visual Studio 2012\Projects\Final Project\Final Project\obj\Release\Final_Project.Form1.resources
+C:\Users\cheth\Documents\Visual Studio 2012\Projects\Final Project\Final Project\obj\Release\Final_Project.Login.resources
+C:\Users\cheth\Documents\Visual Studio 2012\Projects\Final Project\Final Project\obj\Release\Final_Project.Properties.Resources.resources
+C:\Users\cheth\Documents\Visual Studio 2012\Projects\Final Project\Final Project\obj\Release\Final_Project.Seller_Login.resources
+C:\Users\cheth\Documents\Visual Studio 2012\Projects\Final Project\Final Project\obj\Release\Final_Project.Seller_Page.resources
+C:\Users\cheth\Documents\Visual Studio 2012\Projects\Final Project\Final Project\obj\Release\Final_Project.Sellers.resources
+C:\Users\cheth\Documents\Visual Studio 2012\Projects\Final Project\Final Project\obj\Release\Final Project.csproj.GenerateResource.Cache

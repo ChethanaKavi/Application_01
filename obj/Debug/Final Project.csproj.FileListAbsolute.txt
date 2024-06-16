@@ -1,0 +1,22 @@
+c:\users\cheth\documents\visual studio 2012\Projects\Final Project\Final Project\bin\Debug\Final Project.exe.config
+C:\Users\cheth\Documents\Visual Studio 2012\Projects\Final Project\Final Project\bin\Debug\Final Project.exe
+C:\Users\cheth\Documents\Visual Studio 2012\Projects\Final Project\Final Project\bin\Debug\Final Project.pdb
+C:\Users\cheth\Documents\Visual Studio 2012\Projects\Final Project\Final Project\obj\Debug\Final Project.csprojResolveAssemblyReference.cache
+C:\Users\cheth\Documents\Visual Studio 2012\Projects\Final Project\Final Project\obj\Debug\Final_Project.Form1.resources
+C:\Users\cheth\Documents\Visual Studio 2012\Projects\Final Project\Final Project\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\cheth\Documents\Visual Studio 2012\Projects\Final Project\Final Project\obj\Debug\Final Project.csproj.GenerateResource.Cache
+C:\Users\cheth\Documents\Visual Studio 2012\Projects\Final Project\Final Project\obj\Debug\Final Project.exe
+C:\Users\cheth\Documents\Visual Studio 2012\Projects\Final Project\Final Project\obj\Debug\Final Project.pdb
+C:\Users\cheth\Documents\Visual Studio 2012\Projects\Final Project\Final Project\obj\Debug\Final_Project.Admin_Login.resources
+C:\Users\cheth\Documents\Visual Studio 2012\Projects\Final Project\Final Project\obj\Debug\Final_Project.Login.resources
+C:\Users\cheth\Documents\Visual Studio 2012\Projects\Final Project\Final Project\obj\Debug\Final_Project.Seller_Login.resources
+C:\Users\cheth\Documents\Visual Studio 2012\Projects\Final Project\Final Project\obj\Debug\Final_Project.Admin_Seller.resources
+C:\Users\cheth\Documents\Visual Studio 2012\Projects\Final Project\Final Project\obj\Debug\Final_Project.Seller_Page.resources
+C:\Users\cheth\Documents\Visual Studio 2012\Projects\Final Project\Final Project\obj\Debug\Final_Project.Billing.resources
+C:\Users\cheth\Documents\Visual Studio 2012\Projects\Final Project\Final Project\obj\Debug\Final_Project.Catergory.resources
+C:\Users\cheth\Documents\Visual Studio 2012\Projects\Final Project\Final Project\obj\Debug\Final_Project.Order.resources
+C:\Users\cheth\Documents\Visual Studio 2012\Projects\Final Project\Final Project\obj\Debug\Final_Project.Customer.resources
+C:\Users\cheth\Documents\Visual Studio 2012\Projects\Final Project\Final Project\obj\Debug\Final_Project.Form2.resources
+C:\Users\cheth\Desktop\Desktop_Application\Final Project\Final Project\bin\Debug\Final Project.exe.config
+C:\Users\cheth\Desktop\Desktop_Application\Final Project\Final Project\obj\Debug\Final Project.exe
+C:\Users\cheth\Desktop\Desktop_Application\Final Project\Final Project\obj\Debug\Final Project.pdb
